@@ -7,7 +7,7 @@
 -  🦅 Dedicated life-long learner💯 Life revolves around Self-driving cars 🚘 and Python.
 - **TL;DR: Self-supervised visual intelligence in autonomous vehicles that learn from experience.**
 - 🚘 I’m currently working on Autonomous Driving.
-- 💬 Ask me about Autonomous Driving, Perception, and Deep Learning for Vision.
+- 💬 Ask me about **Autonomous Vehicles**, **Deep Learning for Vision**, **Perception**, **Computer Vision**
 
 ## Work  💻
 - **Mar 2022 - Present**: Staff Engineer, Deep Learning Researcher for Autonomous Driving @ [Qualcomm](https://www.qualcomm.com/products/application/automotive)
@@ -19,6 +19,5 @@
 
 ## Get in touch  💬 
 - 📧 How to reach me: rvarun7777@gmail.com
-- Ask me about **Autonomous Vehicles**, **Deep Learning**, **Perception**, **Computer Vision**
 - Social media: [LinkedIn](https://www.linkedin.com/in/rvarun7777/),
 - Other links: [CV / Resume](https://drive.google.com/file/d/11zVXrkf8ng9Ak6sPq9-vhb-0SHlVtZi0/view?usp=sharing), [Google Scholar](https://scholar.google.com/citations?user=Tll071oAAAAJ&hl=en)
