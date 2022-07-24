@@ -4,7 +4,6 @@
 
 ⚡ Nova Effect: Maybe the whole process of nature is an integrated process of immense complexity, and it is really impossible to tell whether anything that happens in it is good or bad because you never know what will be the consequences of the misfortune or you never know what will be the consequences of good fortune.
 
-Here are some ideas to get you started:
 - **TL;DR: Self-supervised visual intelligence in autonomous vehicles that learn from experience.**
 - 🔭 I’m currently working on Autonomous Driving.
 - 💬 Ask me about Autonomous Driving, Perception, and Deep Learning for Vision.
